@@ -12,6 +12,8 @@
 
 <blockquote><a href="https://battu.kabala.vn/">Tạo lá số bát tự</a></blockquote>
 
+_Bạn có thể sử dụng: **https://battu.kabala.vn/?birth=1940-10-25-08-nam** với **năm-tháng-ngày-giờ-giới tính** để tùy chỉnh lá số bát tự._
+
 <img src="https://raw.githubusercontent.com/kabalavn/La-So-Bat-Tu/refs/heads/main/LaSoBatTu%20(1).png"/>
 
 
